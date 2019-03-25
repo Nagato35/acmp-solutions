@@ -1,5 +1,8 @@
-print('Vvedite vo skolko raz Gulliver bolshe liliputov')
-a = int(input())
-print('Vvedite skolko nuzno matrasov')
-b = int(input())
-print('Vsego nuzhno', a * a * b, 'matrasov liliputo')
+print('Введите 3 натуральных числа')
+a = []
+for i in range(3):
+	a.append(int(input()))
+if a[0] * a[1] == a[2] :
+	print('YES')
+else:
+	print('NO')

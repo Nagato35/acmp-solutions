@@ -1,0 +1,5 @@
+print('Vvedite vo skolko raz Gulliver bolshe liliputov')
+a = int(input())
+print('Vvedite skolko nuzno matrasov')
+b = int(input())
+print('Vsego nuzhno', a * a * b, 'matrasov liliputo')
