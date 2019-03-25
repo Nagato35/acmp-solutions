@@ -1,0 +1,5 @@
+print('Kolichestvo banok prostrelenih Garri')
+a = int(input())
+print('Kolichestvo banok prostrelnnih Larri')
+b = int(input())
+print('Oni ne prostrelili' ,(10 - a),(10 - b), 'banok sootvetstvenno')

@@ -1,0 +1,5 @@
+print('Vvedite kolichestvo dosok i ix razmeri')
+a = int(input())
+b = int(input())
+c = int(input())
+print('Neobhodimo', (a * b * c * 2), 'gramm sulfida')
