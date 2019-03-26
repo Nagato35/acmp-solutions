@@ -1,2 +1,3 @@
 # acmp-solutions
-Here are solutions for issues on acmp.ru
+Here are solutions for assignments on acmp.ru
+All the code is written in Python. 
